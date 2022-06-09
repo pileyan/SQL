@@ -4,6 +4,7 @@
 ## ДЗ1 (простое)
 Прорешать блоки select, where, order by, null, functions, group by, like, in , alias, between [тут](https://www.w3schools.com/sql/exercise.asp)
 Срок - до конца дня 13.06.2022
+Сдача в виде скрина с решёнными задачками мне в телеграм 
 
 Здесь будут полезные материалы "около курса"
 
